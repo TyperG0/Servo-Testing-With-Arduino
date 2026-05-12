@@ -1,4 +1,5 @@
-# 🚀 Aktüatör Telemetri ve Kontrol Arayüzü
+# Servo Testi
+
 
 ![Arayüz Ekran Görüntüsü](gorsel1.png)
 
